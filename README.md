@@ -1,4 +1,4 @@
-# more_articles
+# Contao CMS - Display More Articles from the Current Category
 More articles is an extension for the Contao CMS(version 3.5.x) witch display more articles from the current category.
 
 Contao Developer
